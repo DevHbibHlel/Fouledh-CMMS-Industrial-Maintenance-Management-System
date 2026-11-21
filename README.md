@@ -93,9 +93,10 @@ I now maintain a strict habit of pushing all work to GitHub from the first day o
 
  See Also
  
-Kumkim: Desktop Companion AI — My other archived project, featuring a 11,000-line Python autonomous AI companion.
+[Kumkim: Desktop Companion AI — My other archived project, featuring a 11,000-line Python autonomous AI companion.]
 
-My active projects — Check out my latest real-time full-stack web applications (React + TypeScript + Supabase).
+(https://github.com/DevHbibHlel/KUMKIM)
+
 
 Note: If you are a recruiter or developer reviewing this, feel free to read the attached PDF report to see the detailed sequence diagrams, class architectures, and sprint planning that went into this full-stack industrial system.
 
